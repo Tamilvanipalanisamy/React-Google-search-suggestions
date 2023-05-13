@@ -1,0 +1,17 @@
+.arrow-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.suggestion-item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.heading {
+  color: #64748b;
+  font-family: 'roboto';
+  font-size: 14px;
+}
